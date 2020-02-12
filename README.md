@@ -1,0 +1,2 @@
+# puref
+Pure function collection
